@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactquest102/static/css/main.1340bccd.css",
+    "main.js": "/reactquest102/static/js/main.68004bc4.js",
+    "static/media/main.png": "/reactquest102/static/media/main.f924f2a7a00ebd9519e4.png",
+    "static/media/chef_about.png": "/reactquest102/static/media/chef_about.2fd3478e063d524478a8.png",
+    "index.html": "/reactquest102/index.html",
+    "main.1340bccd.css.map": "/reactquest102/static/css/main.1340bccd.css.map",
+    "main.68004bc4.js.map": "/reactquest102/static/js/main.68004bc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1340bccd.css",
+    "static/js/main.68004bc4.js"
+  ]
+}
