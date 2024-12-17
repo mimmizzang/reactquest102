@@ -9,8 +9,8 @@ const About = () => {
           <PrivateModule type="box" data="top" />
         </div>
         <div className="topRight">
-          <PrivateModule type="image" data="./right1.png" alt="" />
-          <PrivateModule type="image" data="./right2.png" alt="" />
+          <PrivateModule type="image" data="1" alt="" />
+          <PrivateModule type="image" data="2" alt="" />
         </div>
       </div>
       <div className="boxAll">
